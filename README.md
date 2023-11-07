@@ -8,3 +8,4 @@ The file anaHyb.cpp is the C++ code that can be used to simulate the active Eric
 
 The file annulus.cpp is the C++ code that can be used to simulate the active Ericksen-Leslie hydrodynamics in an Eulerian frame of reference for an annular geometry.
 
+The file complexGeometries.cpp is the C++ code that can be used to simulate the active Ericksen-Leslie hydrodynamics in an Eulerian frame of reference any complex 3D geometry given point cloud data (.csv-file). The particle positions are given in the .csv-files (argv[2]) for the symmetric and the asymmetric geometry (the files have 7 columns specifying: x-position, y-position, z-position, bulk/boundary (0/1), x-component normal, y-component normal, z-component normal). The parametersComplex.txt (argv[1]) specifies the model and simulation parameters.   
