@@ -20,7 +20,7 @@ This file provides citation information for the 3Dactive-hydrodynamics repositor
    - **DOI:** [10.1063/5.0169546](https://doi.org/10.1063/5.0169546).
    - **Related Information:** This publication presents a higher-order convergent numerical solver for active polar hydrodynamics in three-dimensional domains of arbitrary shape. It involves a scalable open-source software implementation for shared- and distributed-memory parallel computers, enabling the computational study of the nonlinear dynamics of out-of-equilibrium materials from first principles.
   
-2. ** A C++ expression system for partial differential equations enables ...
+2. **A C++ expression system for partial differential equations enables generic simulations of biological hydrodynamics**
    - **Published in:** European Physical Journal E (EPJ E)
    - **Year:** 2021
    - **Volume:** 44
